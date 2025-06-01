@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<linker>
+	<assembly fullname="Sunny.UI">
+		<type fullname="Sunny.UI.UIStyles+LOGFONT" preserve="all"/>
+	</assembly>
+	<assembly fullname="Sunny.UI">
+		<type fullname="Sunny.UI.UINotifier" preserve="all"/>
+		<type fullname="Sunny.UI.Properties.Resources" preserve="all"/>
+		<!-- Thêm các lớp khác nếu cần -->
+	</assembly>
+</linker>
