@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunnyUI", "SunnyUI\SunnyUI.csproj", "{AB1CB247-E20B-4CBE-B269-570ADDD96C53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunnyDemo", "SunnyDemo\SunnyDemo.csproj", "{EC36CC55-0AF9-4915-80A1-77D63FDFB8E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB1CB247-E20B-4CBE-B269-570ADDD96C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1CB247-E20B-4CBE-B269-570ADDD96C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1CB247-E20B-4CBE-B269-570ADDD96C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1CB247-E20B-4CBE-B269-570ADDD96C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC36CC55-0AF9-4915-80A1-77D63FDFB8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC36CC55-0AF9-4915-80A1-77D63FDFB8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC36CC55-0AF9-4915-80A1-77D63FDFB8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC36CC55-0AF9-4915-80A1-77D63FDFB8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2282D93D-0579-42A7-A016-BCB7A283FF26}
+	EndGlobalSection
+EndGlobal
